@@ -12,6 +12,9 @@
             "homepage": "http://www.yiioc.com/"
         }
     ],
+    "require": {
+        "yiisoft/yii2-bootstrap": "@dev"
+    },
     "autoload": {
         "psr-4": {
             "qdzsoft\\winselect\\": ""
