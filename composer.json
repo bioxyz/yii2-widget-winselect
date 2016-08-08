@@ -1,0 +1,20 @@
+{
+    "name": "qdzsoft/yii2-widget-winselect",
+    "description": "Widget that enables popup window for selecting what it belongs to",
+    "keywords": ["yii2", "extension", "widget", "select", "form", "plugin"],
+    "homepage": "https://github.com/qdzsoft/yii2-widget-winselect",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Neptune Lee",
+            "email": "neptune.lee@outlook.com",
+            "homepage": "http://www.yiioc.com/"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "qdzsoft\\winselect\\": ""
+        }
+    }
+}
